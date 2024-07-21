@@ -1,0 +1,1 @@
+web: gunicorn mydrfproject.wsgi --log-file -
